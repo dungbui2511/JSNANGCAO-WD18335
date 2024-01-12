@@ -16,7 +16,7 @@ console.table({ name: 'Brad', email: 'brad@gmail.com' });
 console.group('simple');
 console.log(x);
 console.error('Alert');
-console.warn('Warning');
+// console.warn('Warning');
 console.groupEnd();
 // Add CSS to logs
 const styles = 'padding: 10px; background-color: white; color: green';
